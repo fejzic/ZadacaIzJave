@@ -1,0 +1,29 @@
+.poljeIspravno {
+   -fx-control-inner-background: greenyellow;
+}
+.poljeNijeIspravno {
+   -fx-control-inner-background: lightpink;
+}
+
+
+
+#btnObrisi{
+-fx-graphic: url("/slike/edit-delete.png");
+}
+
+#btnDodaj{
+
+-fx-graphic: url("/slike/list-add.png");
+}
+
+#btnKraj{
+-fx-graphic: url("/slike/application-exit.png");
+}
+#btnGenerisi{
+-fx-graphic: url("/slike/hydro-power.png");
+}
+
+
+
+
+
